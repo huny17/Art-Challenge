@@ -21,6 +21,10 @@ h1{
 	color:#FFFFFF
 }
 
+h2{
+	color:#11345C;
+}
+
   
 
 menu li{
@@ -41,12 +45,9 @@ menu li a{
 	color: #FFFFFF;
 }
 
-/* .container{
-	float: left;
-  	width: 50%;
-  	padding: 10px;
-  	height: 300px;
-} */
+.mainlook img{
+	width: 63%;
+}
 
 .picform img{
   width: 52%;
